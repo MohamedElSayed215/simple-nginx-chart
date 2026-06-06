@@ -1,7 +1,7 @@
 deploy:
   label: nginx-deploy
-  namespace: prod
-  replicas: 1
+  namespace: default
+  replicas: 5
   container:
     name: nginx-container
     image:  nginx
