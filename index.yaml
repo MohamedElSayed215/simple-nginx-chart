@@ -3,12 +3,12 @@ entries:
   simple-nginx-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-06-06T23:43:34.341411264+03:00"
-    description: this chart made by Mohamed Elsayed
-    digest: 830f309391667347ffb16022d71dfb36f6c3a9c92177d8ac87b6dd0b0415998a
+    created: "2026-06-07T00:00:38.365512547+03:00"
+    description: this chart is made by Mohamed Elsayed
+    digest: a69ec41b866526ccd6f0f6c2f97b7f14152c3199d1dea87554e5b0aab5911801
     name: simple-nginx-chart
     type: application
     urls:
-    - https://mohamedelsayed215.github.io/simple-nginx-chart/simple-nginx-chart-0.1.1.tgz
-    version: 0.1.1
-generated: "2026-06-06T23:43:34.339305442+03:00"
+    - https://mohamedelsayed215.github.io/simple-nginx-chart/simple-nginx-chart-0.1.2.tgz
+    version: 0.1.2
+generated: "2026-06-07T00:00:38.365004552+03:00"
