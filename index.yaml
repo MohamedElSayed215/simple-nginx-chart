@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  myapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-06-06T23:07:12.75505319+03:00"
+    description: A Helm chart for Kubernetes
+    digest: f74ec84c78fff5e7725a01720ac6b48d6a837f449215cb690889fa391e7c0582
+    name: myapp
+    type: application
+    urls:
+    - git@github.com:MohamedElSayed215/simple-nginx-chart.git/myapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-06-06T23:07:12.752987806+03:00"
