@@ -1,14 +1,14 @@
 apiVersion: v1
 entries:
-  myapp:
+  simple-nginx-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-06-06T23:07:12.75505319+03:00"
-    description: A Helm chart for Kubernetes
-    digest: f74ec84c78fff5e7725a01720ac6b48d6a837f449215cb690889fa391e7c0582
+    created: "2026-06-06T23:27:29.915399548+03:00"
+    description: this chart made by Mohamed Elsayed
+    digest: 9946a9a3d9ff132b6c55df77ce0940b44390fecd6bc685f1b67574b0702acfa9
     name: simple-nginx-chart
     type: application
     urls:
-    - git@github.com:MohamedElSayed215/simple-nginx-chart.git/myapp-0.1.0.tgz
-    version: 0.1.0
-generated: "2026-06-06T23:07:12.752987806+03:00"
+    - https://mohamedelsayed215.github.io/simple-nginx-chart/simple-nginx-chart-0.1.1.tgz
+    version: 0.1.1
+generated: "2026-06-06T23:27:29.9149267+03:00"
